@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Book Rentals</string>
+    <string name="usernameText">username:</string>
+    <string name="loginTextVal">login here</string>
+    <string name="usernameEditHint">username</string>
+    <string name="passowordHint">password</string>
 </resources>
