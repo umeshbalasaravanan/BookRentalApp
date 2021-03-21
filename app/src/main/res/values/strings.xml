@@ -1,7 +1,17 @@
 <resources>
-    <string name="app_name">Book Rentals</string>
+    <string name="app_name">Bookopedia</string>
     <string name="usernameText">username:</string>
     <string name="loginTextVal">login here</string>
     <string name="usernameEditHint">username</string>
     <string name="passowordHint">password</string>
+    <string name="registerLinkText">create one</string>
+    <string name="accountHintVal">Create your Bookopedia account</string>
+    <string name="firstnameEditTextVal">first name</string>
+    <string name="lastnameEditTextVal">last name</string>
+    <string name="emailIdEditTextVal">email id</string>
+    <string name="phonenumEditTextVal">mobile number</string>
+    <string name="passwordEditTextVal">password</string>
+    <string name="confirmpasswordEditTextVal">confirm password</string>
+    <string name="registerButtonVal">register</string>
+    <string name="cancelButtonVal">cancel</string>
 </resources>

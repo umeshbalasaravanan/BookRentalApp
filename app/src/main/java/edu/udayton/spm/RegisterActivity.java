@@ -7,22 +7,22 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-public class LoginActivity extends AppCompatActivity {
-
+public class RegisterActivity extends AppCompatActivity {
+    TextView cancel;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_register);
 
-        TextView registerLinkView = (TextView)findViewById(R.id.registerLinkView);
+        cancel = (TextView)findViewById(R.id.cancelButtonView);
 
-        View.OnClickListener registerLinkViewListener = new View.OnClickListener() {
+        View.OnClickListener cancelOnClickListener = new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
+                Intent intent = new Intent(RegisterActivity.this,RegisterActivity.class);
                 startActivity(intent);
             }
         };
-        registerLinkView.setOnClickListener(registerLinkViewListener);
+        cancel.setOnClickListener(cancelOnClickListener);
     }
 }
