@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Bookopedia</string>
+    <string name="img1">introImg</string>
+    <string name="padding">5dp</string>
+    <string name="txt1">Welcome All</string>
+    <string name="btn1">"Let's get started "</string>
     <string name="usernameText">username:</string>
     <string name="loginTextVal">login here</string>
     <string name="usernameEditHint">username</string>

@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView helloworld = (TextView)findViewById(R.id.login);
+        TextView login = (TextView)findViewById(R.id.btn1);
 
         View.OnClickListener loginClickListener = new View.OnClickListener() {
             @Override
@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(login_intent);
             }
         };
-        helloworld.setOnClickListener(loginClickListener);
+        login.setOnClickListener(loginClickListener);
     }
 }

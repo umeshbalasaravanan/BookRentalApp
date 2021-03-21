@@ -19,7 +19,7 @@ public class RegisterActivity extends AppCompatActivity {
         View.OnClickListener cancelOnClickListener = new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(RegisterActivity.this,RegisterActivity.class);
+                Intent intent = new Intent(RegisterActivity.this,LoginActivity.class);
                 startActivity(intent);
             }
         };
