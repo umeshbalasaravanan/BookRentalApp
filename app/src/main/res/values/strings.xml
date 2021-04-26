@@ -18,4 +18,12 @@
     <string name="confirmpasswordEditTextVal">confirm password</string>
     <string name="registerButtonVal">register</string>
     <string name="cancelButtonVal">cancel</string>
+    <string name="personalizeLabelTextVal">Pick your choices to personalize your profile</string>
+    <string name="fictionCheckboxVal">Fiction</string>
+    <string name="nonFictionCheckboxVal">Non - fiction</string>
+    <string name="romanceCheckboxVal">Romance</string>
+    <string name="detectiveCheckBoxVal">Detective</string>
+    <string name="educationCheckboxVal">Education</string>
+    <string name="thrillerCheckboxVal">Thriller</string>
+    <string name="savePrefButtonVal">save preferences</string>
 </resources>
