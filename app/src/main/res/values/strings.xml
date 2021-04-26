@@ -26,4 +26,25 @@
     <string name="educationCheckboxVal">Education</string>
     <string name="thrillerCheckboxVal">Thriller</string>
     <string name="savePrefButtonVal">save preferences</string>
+    <string name="searchHintVal">book search</string>
+    <string name="fictionBookNameVal">Then She was Gone: A Novel Paperback</string>
+    <string name="fiction1AuthorNameVal">by: Lisa Jewell</string>
+    <string name="fiction2BookNameVal">The Four Winds</string>
+    <string name="fiction2AuthorNameVal">by: Kristin Hannah</string>
+    <string name="fiction3BookNameVal">The Committed</string>
+    <string name="fiction3AuthorNameVal">by: Viet Thanh Nguyen</string>
+    <string name="nonFiction1BookNameVal">The Pale - Faced Lie: A True Story</string>
+    <string name="nonFiction1AuthorNameVal">by: David Crow</string>
+    <string name="nonFiction2BookNameVal">The Book: On the Taboo Against Knowing who you are</string>
+    <string name="nonFiction2AuthorNameVal">by: Alan Watts</string>
+    <string name="nonFiction3BookNameVal">Surviving the Forest</string>
+    <string name="nonFiction3AuthorNameVal">by: Adiva Geffen</string>
+    <string name="romance1BookNameVal">For Once in my life</string>
+    <string name="romance1AuthorNameVal">by: Colleen Coleman</string>
+    <string name="romance2BookNameVal">Cottage by the sea</string>
+    <string name="romance2AuthorNameVal">by: Debbie Macomber</string>
+    <string name="romance3BookNameVal">Saltwater Cove</string>
+    <string name="romance3AuthorNameVal">by: Amelia Addler</string>
+
+
 </resources>
