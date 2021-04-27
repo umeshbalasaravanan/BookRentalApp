@@ -42,6 +42,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/fiction1Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -70,6 +71,7 @@
                     android:text="@string/fiction1AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/fiction1price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 3"
@@ -99,6 +101,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/fiction2Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -127,6 +130,7 @@
                     android:text="@string/fiction2AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/fiction2price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 4"
@@ -156,6 +160,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/fiction3Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -184,6 +189,7 @@
                     android:text="@string/fiction3AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/fiction3price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 4.5"
@@ -211,6 +217,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/nonFiction1Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -239,6 +246,7 @@
                     android:text="@string/nonFiction1AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/nonfiction1price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 3.5"
@@ -265,6 +273,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/nonFiction2Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -293,6 +302,7 @@
                     android:text="@string/nonFiction2AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/nonfiction2price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 4.7"
@@ -318,6 +328,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/nonFiction3Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -346,6 +357,7 @@
                     android:text="@string/nonFiction3AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/nonfiction3price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 2.3"
@@ -371,6 +383,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/romance1Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -399,6 +412,7 @@
                     android:text="@string/romance1AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/romance1price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 1.8"
@@ -424,6 +438,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/romance2Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -452,6 +467,7 @@
                     android:text="@string/romance2AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/romance2price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 5.5"
@@ -477,6 +493,7 @@
             android:visibility="gone">
 
             <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/romance3Image"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
                 android:layout_margin="10dp"
@@ -505,6 +522,7 @@
                     android:text="@string/romance3AuthorNameVal" />
 
                 <TextView
+                    android:id="@+id/romance3price"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="\u0024 3.3"

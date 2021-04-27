@@ -45,6 +45,16 @@
     <string name="romance2AuthorNameVal">by: Debbie Macomber</string>
     <string name="romance3BookNameVal">Saltwater Cove</string>
     <string name="romance3AuthorNameVal">by: Amelia Addler</string>
-
+    <string name="bookSynopsisTextVal">Book Synopsis</string>
+    <string name="addToCartBtnVal">Add to Cart</string>
+    <string-array name="daySpinner">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
 
 </resources>
